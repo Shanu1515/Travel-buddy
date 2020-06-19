@@ -5,7 +5,7 @@
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Gyaan-Portal/Gyaan-Portal-App.git
+https://github.com/Shanu1515/Travel-buddy.git
 ```
 
 **Step 2:**
