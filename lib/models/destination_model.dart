@@ -79,4 +79,18 @@ List<Destination> destinations = [
     description: 'Visit New York for an amazing and unforgettable adventure.',
     activities: activities,
   ),
+  Destination(
+    imageUrl: 'assets/images/saopaulo.jpg',
+    city: 'Havana',
+    country: 'Cuba',
+    description: 'Visit the beautiful beaches of Cuba',
+    activities: activities,
+  ),
+  Destination(
+    imageUrl: 'assets/images/newyork.jpg',
+    city: 'Boston',
+    country: 'United States',
+    description: 'Visit the famous landmarks of Boston',
+    activities: activities,
+  ),
 ];
