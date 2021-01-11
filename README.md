@@ -2,7 +2,7 @@
 
 **Step 1:**
 
-Download or clone this repo by using the link below:
+Firstly,download or clone this repo by using the link below:
 
 ```
 https://github.com/Shanu1515/Travel-buddy.git
